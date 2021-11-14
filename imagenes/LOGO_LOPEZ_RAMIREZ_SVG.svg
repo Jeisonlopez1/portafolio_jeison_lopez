@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 47.625 47.625"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="35"
+       y="40"
+       width="35"
+       height="55"
+       id="rect2236" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g10326"
+       transform="matrix(3.3333007,0,0,3.3333007,-18.324994,-26.268032)">
+      <g
+         id="g6783">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-0.80433964,-1.2065095)"
+           id="text2234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.9999px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2236)"><tspan
+             x="35"
+             y="74.999913"
+             id="tspan10344">L</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1982c4;fill-opacity:1;stroke-width:0.264583"
+           x="9.6637745"
+           y="18.634445"
+           id="text2396"><tspan
+             id="tspan2394"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1982c4;fill-opacity:1;stroke-width:0.264583"
+             x="9.6637745"
+             y="18.634445">R</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:1.41111px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';stroke-width:0.264583"
+         x="7.7079511"
+         y="19.84375"
+         id="text5855"><tspan
+           id="tspan5853"
+           style="font-size:1.41111px;stroke-width:0.264583"
+           x="7.7079511"
+           y="19.84375"><tspan
+   style="font-size:1.5875px"
+   id="tspan9779">L</tspan>opez <tspan
+   style="font-size:1.5875px"
+   id="tspan8481">R</tspan>amirez</tspan></text>
+    </g>
+  </g>
+</svg>
