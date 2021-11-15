@@ -37,13 +37,18 @@ En esta sección se presenta un mini juego creado en la herramienta Construct 2 
 del apartado del mundo de los videojuegos como los son: puntos, vida, movimiento, colisiones, eventos, entre otros.
 
 Si se desea ahondar en el uso de las anteriores herramientas quedan los enlaces a todo el material utilizado:
-* (SweetAlert.JS)[https://sweetalert.js.org/]
-* (Elegant Theme)[https://www.elegantthemes.com/]
-* (Magix v12)[https://www.magix.com/es/]
-* (Tupitube)[https://www.magix.com/es/]
-* (Flex Tricks)[https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
-* (Basic Syntax|Markdown)[https://www.markdownguide.org/basic-syntax/#links]
-* (W3Schools)[https://www.w3schools.com/]
+* 
+* 
+* 
+* 
+* 
+* [SweetAlert.JS](https://sweetalert.js.org/)
+* [Elegant Theme](https://www.elegantthemes.com/)
+* [Magix v12](https://www.magix.com/es/)
+* [Tupitube](https://www.magix.com/es/)
+* [Flex Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Basic Syntax|Markdown](https://www.markdownguide.org/basic-syntax/#links)
+* [W3Schools](https://www.w3schools.com/)
 
 
 
