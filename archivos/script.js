@@ -1,6 +1,7 @@
 const info_metas = document.querySelector('.sobre-mi');
 let bloqueActivo;
 const botonMenu = document.querySelector('.tongle');
+const botonInstrucciones = document.querySelector('#boton-instrucciones');
 
 info_metas.addEventListener('click',(e)=>{
 
@@ -28,4 +29,8 @@ window.addEventListener('click',(e)=>{
     if (bloqueActivo && !e.target.classList.contains('info')){
         bloqueActivo.classList.remove('active');
     }
+})
+
+botonInstrucciones.addEventListener('click',(e) =>{
+    document.querySelector('.instrucciones').classList.toggle('active')
 })
