@@ -14,8 +14,6 @@ Se describen 4 secciones dentro la página en formato landing page, la cual reun
 facilita el flujo de la página mostrando cada una habilidades que adquirí sin entorpecer o sobrecargar la pagina con efectos o colores 
 innecesarios.
 Las tecnologías utilizadas son HTML, CSS y Javascript para evaluar algunos eventos que ocurren mientras el usuario interactua con la pagina.
-Se agrega una libreria de Javascript a través de su CDN llamada SweetAlert que facilita la creación de Pop-up elegantes para mostrar información
-de ayuda.
 
 ## Secciones
 
@@ -42,7 +40,6 @@ Si se desea ahondar en el uso de las anteriores herramientas quedan los enlaces 
 * 
 * 
 * 
-* [SweetAlert.JS](https://sweetalert.js.org/)
 * [Elegant Theme](https://www.elegantthemes.com/)
 * [Magix v12](https://www.magix.com/es/)
 * [Tupitube](https://www.magix.com/es/)
