@@ -376,13 +376,36 @@ main #inicio .globo{
 
 #interactividad .instrucciones
 {
-    background-color: #fff;
+    background-color: var(--bcolor--primary);
+    padding:8px;
     width: 20%;
-
 }
 
-/* #interactividad .instrucciones p{
-} */
+#interactividad .videojuego{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#interactividad .videojuego iframe{
+    height:100%;
+    width:100%;
+}
+
+#interactividad .instrucciones h4{
+    color:rgb(231, 87, 4);
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+#interactividad .instrucciones p{
+    color: #FFF;
+    text-align: left;
+    margin-top: 1rem;
+    font-size: .8rem;
+}
 
 /* media query*/
 
