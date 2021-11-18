@@ -175,7 +175,7 @@ main #inicio .titulo button{
 }
 
 main #inicio .titulo button a{
-    color:var(--fcolor-primary);
+    color:#fffc;
     font-size: 1rem;
     font-weight: 400;
     text-decoration: none;
@@ -195,6 +195,7 @@ main #inicio .titulo button::before{
 }
 
 main #inicio .titulo button:hover > a{
+    font-weight: 700;
     color: var(--bcolor--primary)
 }
 
