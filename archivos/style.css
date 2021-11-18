@@ -524,14 +524,14 @@ main #inicio .globo{
         display: block;
         position: absolute;
         overflow: visible;
-        top:10%;
-        left:calc(50% - 100px)
+        top:7%;
+        left:calc(50% - 75px)
     }
 
     main #inicio div:nth-child(2) .colorbox{
         transform: rotate(0deg) translate(0,0);
-        width:200px;
-        height:200px;
+        width:150px;
+        height:150px;
         position: absolute;
         overflow: visible;
         z-index: 4000;
