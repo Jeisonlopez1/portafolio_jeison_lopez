@@ -175,7 +175,7 @@ main #inicio .titulo button{
 }
 
 main #inicio .titulo button a{
-    color:var(--fcolor-primary);
+    color:#fffc;
     font-size: 1rem;
     font-weight: 400;
     text-decoration: none;
@@ -195,6 +195,7 @@ main #inicio .titulo button::before{
 }
 
 main #inicio .titulo button:hover > a{
+    font-weight: 700;
     color: var(--bcolor--primary)
 }
 
@@ -523,14 +524,14 @@ main #inicio .globo{
         display: block;
         position: absolute;
         overflow: visible;
-        top:10%;
-        left:calc(50% - 100px)
+        top:7%;
+        left:calc(50% - 75px)
     }
 
     main #inicio div:nth-child(2) .colorbox{
         transform: rotate(0deg) translate(0,0);
-        width:200px;
-        height:200px;
+        width:150px;
+        height:150px;
         position: absolute;
         overflow: visible;
         z-index: 4000;
